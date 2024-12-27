@@ -6,4 +6,4 @@ roboflow 사이트를 통해 약 700장의 사진들의 현수막과 거치대�
 
 불법 현수막을 탐지했을 때 데이터베이스에 저장된 경도, 위도와 거리 계산을 해 겹치는 게 있는지 확인하는 코드를 작성함 
 
-<img width="1000" alt="1_1" src="https://github.com/user-attachments/assets/f5463c52-0bc7-4e98-8b8a-d8d20c08cbf3" />
+<img width="750" alt="1_1" src="https://github.com/user-attachments/assets/d0a22a42-f10e-4988-b2ff-b92a55876ff3" />
