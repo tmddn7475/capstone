@@ -25,10 +25,10 @@ import pymysql
 
 # 데이터베이스 연결
 db = pymysql.connect(
-	host='34.172.241.206',
-	user='test',
-	password='123456',
-	database='capstone'
+	host='',
+	user='',
+	password='',
+	database=''
 )
 cursor = db.cursor()
 
